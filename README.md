@@ -318,7 +318,7 @@ EdgeEver is an independent open-source note-taking application developed and mai
 
 EdgeEver is self-hosted software. Except for official demo instances, project maintainers do not host, control, or review user content. Content stored or displayed by an instance is the responsibility of its users or operators and does not represent the maintainers' views.
 
-## Contributors
+## Contributorss
 
 <!-- readme-contributors:start -->
 <p align="left">
